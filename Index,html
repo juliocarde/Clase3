@@ -1,0 +1,271 @@
+<html>
+  <head>
+    <title>TAREA3.1</title>
+    <meta charset="utf-8">
+  </head>
+
+<body>
+    <header>
+        <table align="center">
+            <tr>
+                <td colspan="1" rowspan="1">
+                     <p><img src="images/image1.jpg" aling="left" width="80" height="80" /></p>
+                </td>
+                <td colspan="1" rowspan="1">
+                   <div align="center">UNIVERSIDAD NACIONAL DE CAAGUAZU</div>
+                   <div align="center">FACULTAD DE CIENCIAS Y TECNOLOGIAS</div>
+                   <div align="center">Sede Coronel Oviedo</div>
+                   <div align="center">Plan curricular 2020</div>
+                    <p>CARRERA: INGENIERIA EN INFORMATICA</p>   
+                </td>
+                <td colspan="1" rowspan="1">
+                    <p><img src="images/image2.jpg" aling="right" width="90" height="90" /></p>
+                </td>
+            </tr>
+        </table>
+   </header>
+
+    <table align="center" border="1" cellspacing="0"  cellpadding="4" bordercolor="666633" >
+      <tbody>
+        <tr>
+          <td colspan="9" bgcolor="#C0C0C0" align="center"> CUARTO CURSO- SEPTIMO SEMESTRE </td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1" bgcolor="#C0C0C0">
+              <p><span>Ord.</span></p>
+          </td>
+          <td colspan="1" rowspan="1" bgcolor="#C0C0C0">
+              <p><span>Codigo</span></p>
+          </td>
+          <td colspan="1" rowspan="1" bgcolor="#C0C0C0">
+              <p><span>Materias</span></p>
+          </td>
+          <td colspan="1" rowspan="1" bgcolor="#C0C0C0">
+              <p><span>Cond.</span></p>
+          </td>
+          <td colspan="1" rowspan="1" bgcolor="#C0C0C0">
+              <p><span>Area</span></p>
+          </td>
+          <td colspan="1" rowspan="1" bgcolor="#C0C0C0">
+              <p><span>C.H.S</span></p>
+          </td>
+          <td colspan="1" rowspan="1" bgcolor="#C0C0C0">
+              <p><span>T.</span></p>
+          </td>
+          <td colspan="1" rowspan="1" bgcolor="#C0C0C0">
+              <p><span>P.</span></p>
+          </td>
+          <td colspan="1" rowspan="1" bgcolor="#C0C0C0">
+              <p><span>T.C.H.S</span></p>
+          </td>
+          <td ccolspan="1" rowspan="1" bgcolor="#C0C0C0"> 
+              <p><span>Prerrequisito</span></p>
+          </td>
+        </tr>
+
+        <tr>
+          <td colspan="1" rowspan="1">
+              <p>1</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>KTII058</p>
+          </td>
+          <td colspan="1" rowspan="1">
+            <p>
+              <span><a
+                  href="https://www.google.com/url?q=https://docs.google.com/document/d/1OHetbFY0-XJSEA0pOk5_sM940CY-ZZVF6S_XyUDy4Zc/edit?usp%3Dsharing&amp;sa=D&amp;ust=1594786018260000&amp;usg=AOvVaw1wf7ywsqvY0wuSiTIZ6KbS"
+                  >Programacion Web I</a></span>
+            </p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>OB</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>AI</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>4</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>2</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>2</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>64</p>
+          </td>
+          <td colspan="1" rowspan="1">
+            <p>Lenguaje de Programacion III; Bases de Datos II</p>
+          </td>
+        </tr>
+
+        <tr>
+          <td colspan="1" rowspan="1">
+              <p>2</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>KTII060</p>
+          </td>
+          <td colspan="1" rowspan="1">
+            <p>
+              <span
+                ><a
+                  href="https://www.google.com/url?q=https://drive.google.com/open?id%3D0B4TcW9AB3KnadHhCSWE1dGpDd3M&amp;sa=D&amp;ust=1594786018267000&amp;usg=AOvVaw3poiviN8_7QI_n8D1sQ-fd"
+                  >Gesti&oacute;n Gubernamental</a></span>
+            </p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>OBC</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>CO</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>2</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>1</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>1</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>32</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>No tiene</p>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">
+              <p>3</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>KTII061</p>
+          </td>
+          <td colspan="1" rowspan="1">
+            <p>
+              <span><a
+                  href="https://www.google.com/url?q=https://drive.google.com/open?id%3D0B4TcW9AB3KnaRXc3ZXpVZmY4Qmc&amp;sa=D&amp;ust=1594786018272000&amp;usg=AOvVaw27tBwrk_7Sz7nel0wGdO8T"
+                  >Metodologia de la Investigacion II</a></span>
+            </p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>OBC</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>CO</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>3</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>2</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>1</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>48</p>
+          </td>
+          <td colspan="1" rowspan="1">
+            <p>Metodologia de la Investigacion I</p>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">
+              <p>4</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>KTII062</p>
+          </td>
+          <td colspan="1" rowspan="1">
+            <p>
+              <span><a
+                  href="https://www.google.com/url?q=https://drive.google.com/open?id%3D0B4TcW9AB3KnaazlWSGlpcmVxTWM&amp;sa=D&amp;ust=1594786018276000&amp;usg=AOvVaw00UfrrO64xevfoIooVraOl"
+                  >Idiomas II</a></span>
+            </p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>OBC</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>CO</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>2</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>1</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>1</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>32</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>Idiomas I</p>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">
+              <p>5</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>KTII063</p>
+          </td>
+          <td colspan="1" rowspan="1">
+            <p>
+              <span><a
+                  href="https://drive.google.com/file/d/0B5Zgd4QMq7SERDZLZG9zYUpXVFE/view"
+                  >Lenguaje de Progracion III</a></span>
+            </p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>OBC</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>CO</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>2</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>1</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>1</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>32</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>Lenguaje de Progracion III</p>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="4" rowspan="1">
+              <p>Total Carga Horaria Semanal y Semestral</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p></p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>27</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>14</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>13</p>
+          </td>
+          <td colspan="1" rowspan="1">
+              <p>432</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
